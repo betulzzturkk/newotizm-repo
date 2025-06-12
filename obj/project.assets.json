@@ -5503,11 +5503,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\AutismEducationPlatform.Web.csproj",
+      "projectUniqueName": "C:\\Users\\betulozturk\\newotizm-repo\\AutismEducationPlatform.Web.csproj",
       "projectName": "AutismEducationPlatform.Web",
-      "projectPath": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\AutismEducationPlatform.Web.csproj",
+      "projectPath": "C:\\Users\\betulozturk\\newotizm-repo\\AutismEducationPlatform.Web.csproj",
       "packagesPath": "C:\\Users\\betulozturk\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\obj\\",
+      "outputPath": "C:\\Users\\betulozturk\\newotizm-repo\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

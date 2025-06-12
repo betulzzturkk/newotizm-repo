@@ -6,105 +6,72 @@
     <title>@ViewData["Title"] - Otizm Eğitim Platformu</title>
     <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
     <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
-    <style>
-        .navbar {
-            background: linear-gradient(135deg, #2c3e50 0%, #3498db 100%) !important;
-            padding: 1rem 0;
-            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
-        }
-        .navbar-nav .nav-link {
-            color: #ffffff !important;
-            font-weight: 500;
-            padding: 0.7rem 1.2rem;
-            margin: 0 0.2rem;
-            border-radius: 5px;
-            transition: all 0.3s ease;
-        }
-        .navbar-nav .nav-link:hover {
-            background-color: rgba(255, 255, 255, 0.1);
-            transform: translateY(-2px);
-        }
-        .navbar-brand {
-            font-weight: 600;
-            color: #fff !important;
-            font-size: 1.4rem;
-        }
-        .btn-outline-light {
-            border-width: 2px;
-            font-weight: 500;
-            padding: 0.5rem 1.5rem;
-        }
-        .btn-outline-light:hover {
-            background-color: #fff;
-            color: #2c3e50 !important;
-        }
-        body {
-            background-color: #f8f9fe;
-        }
-        .card {
-            border: none;
-            transition: transform 0.3s ease, box-shadow 0.3s ease;
-        }
-        .card:hover {
-            transform: translateY(-5px);
-            box-shadow: 0 10px 20px rgba(107, 72, 255, 0.1) !important;
-        }
-        .card-title {
-            color: #2D3748;
-            font-weight: 600;
-        }
-        .btn-primary {
-            background: linear-gradient(135deg, #6B48FF 0%, #8C6FFF 100%);
-            border: none;
-            padding: 0.6rem 1.5rem;
-            font-weight: 500;
-        }
-        .btn-primary:hover {
-            background: linear-gradient(135deg, #5a3dd9 0%, #7b5ee6 100%);
-            transform: translateY(-1px);
-        }
-    </style>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" />
+    @await RenderSectionAsync("Styles", required: false)
 </head>
 <body>
     <header>
-        <nav class="navbar navbar-expand-sm navbar-dark shadow-sm">
+        <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-3">
             <div class="container">
-                <a class="navbar-brand" asp-area="" asp-controller="Parent" asp-action="Index">
-                    <img src="~/images/logo-white.png" alt="Logo" height="40" class="d-inline-block align-text-top">
-                    <span class="ms-2">Otizm Eğitim</span>
+                <a class="navbar-brand" asp-controller="Parent" asp-action="Dashboard">
+                    <img src="~/images/logo.png" alt="Logo" height="40" />
                 </a>
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target=".navbar-collapse">
                     <span class="navbar-toggler-icon"></span>
                 </button>
                 <div class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
-                    <ul class="navbar-nav">
+                    <ul class="navbar-nav flex-grow-1">
                         <li class="nav-item">
-                            <a class="nav-link" asp-controller="Home" asp-action="Index">Ana Sayfa</a>
+                            <a class="nav-link text-dark" asp-controller="Parent" asp-action="Dashboard">
+                                <i class="fas fa-home"></i> Ana Sayfa
+                            </a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" asp-controller="Course" asp-action="Index">Eğitimler</a>
+                            <a class="nav-link text-dark" asp-controller="Course" asp-action="Index">
+                                <i class="fas fa-graduation-cap"></i> Eğitimler
+                            </a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" asp-controller="Progress" asp-action="Index">İlerleme Raporu</a>
+                            <a class="nav-link text-dark" asp-controller="Parent" asp-action="Progress">
+                                <i class="fas fa-chart-line"></i> Gelişim
+                            </a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" asp-controller="News" asp-action="Index">Haberler</a>
+                            <a class="nav-link text-dark" asp-controller="Parent" asp-action="Messages">
+                                <i class="fas fa-envelope"></i> Mesajlar
+                            </a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" asp-controller="Guidance" asp-action="Index">Rehberlik</a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link" href="#" data-bs-toggle="modal" data-bs-target="#contactModal">İletişim</a>
+                            <a class="nav-link text-dark" asp-controller="Parent" asp-action="FAQ">
+                                <i class="fas fa-question-circle"></i> SSS
+                            </a>
                         </li>
                     </ul>
                     <ul class="navbar-nav">
-                        <li class="nav-item">
-                            <form asp-controller="Account" asp-action="Logout" method="post">
-                                <button type="submit" class="btn btn-outline-light">
-                                    <i class="bi bi-box-arrow-right me-1"></i>Çıkış Yap
-                                </button>
-                            </form>
+                        <li class="nav-item dropdown">
+                            <a class="nav-link dropdown-toggle text-dark" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown">
+                                <i class="fas fa-user-circle"></i> Hesabım
+                            </a>
+                            <ul class="dropdown-menu dropdown-menu-end">
+                                <li>
+                                    <a class="dropdown-item" asp-controller="Parent" asp-action="Profile">
+                                        <i class="fas fa-user"></i> Profil
+                                    </a>
+                                </li>
+                                <li>
+                                    <a class="dropdown-item" asp-controller="Parent" asp-action="Settings">
+                                        <i class="fas fa-cog"></i> Ayarlar
+                                    </a>
+                                </li>
+                                <li><hr class="dropdown-divider"></li>
+                                <li>
+                                    <form asp-controller="Account" asp-action="Logout" method="post">
+                                        <button type="submit" class="dropdown-item text-danger">
+                                            <i class="fas fa-sign-out-alt"></i> Çıkış Yap
+                                        </button>
+                                    </form>
+                                </li>
+                            </ul>
                         </li>
                     </ul>
                 </div>
@@ -114,30 +81,20 @@
 
     <div class="container">
         <main role="main" class="pb-3">
+            @if (TempData["StatusMessage"] != null)
+            {
+                <div class="alert alert-success alert-dismissible fade show" role="alert">
+                    @TempData["StatusMessage"]
+                    <button type="button" class="btn-close" data-bs-dismiss="alert"></button>
+                </div>
+            }
             @RenderBody()
         </main>
     </div>
 
-    <!-- İletişim Modal -->
-    <div class="modal fade" id="contactModal" tabindex="-1">
-        <div class="modal-dialog">
-            <div class="modal-content">
-                <div class="modal-header">
-                    <h5 class="modal-title">İletişim</h5>
-                    <button type="button" class="btn-close" data-bs-dismiss="modal"></button>
-                </div>
-                <div class="modal-body">
-                    <p><i class="bi bi-envelope me-2"></i>Email: betul.ozturk@ogr.gelisim.edu.tr</p>
-                    <p><i class="bi bi-telephone me-2"></i>Telefon: +90 534 311 3258</p>
-                    <p><i class="bi bi-geo-alt me-2"></i>Adres: İstanbul, Türkiye</p>
-                </div>
-            </div>
-        </div>
-    </div>
-
     <footer class="footer text-muted">
-        <div class="container text-center">
-            &copy; 2025- İGÜ-  Otizm Eğitim Platformu - Tüm hakları saklıdır.
+        <div class="container">
+            &copy; @DateTime.Now.Year - Otizm Eğitim Platformu
         </div>
     </footer>
 

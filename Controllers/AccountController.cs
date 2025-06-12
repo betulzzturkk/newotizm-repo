@@ -51,7 +51,6 @@ namespace AutismEducationPlatform.Web.Controllers
                 else if (model.Role == "Instructor")
                 {
                     user.Specialization = model.Specialization;
-                    user.Experience = model.Experience;
                 }
 
                 var result = await _userManager.CreateAsync(user, model.Password);
@@ -62,9 +61,9 @@ namespace AutismEducationPlatform.Web.Controllers
                     await _signInManager.SignInAsync(user, isPersistent: false);
 
                     if (model.Role == "Parent")
-                        return RedirectToAction("Dashboard", "Parent");
+                        return RedirectToAction("Index", "Parent");
                     else if (model.Role == "Instructor")
-                        return RedirectToAction("Index", "Instructor");
+                        return RedirectToAction("Dashboard", "Instructor");
                 }
 
                 foreach (var error in result.Errors)
@@ -94,12 +93,12 @@ namespace AutismEducationPlatform.Web.Controllers
                     var user = await _userManager.FindByEmailAsync(model.Email);
                     var roles = await _userManager.GetRolesAsync(user);
 
-                    if (roles.Contains("Admin"))
-                        return RedirectToAction("Index", "Admin");
-                    else if (roles.Contains("Parent"))
-                        return RedirectToAction("Dashboard", "Parent");
+                    if (roles.Contains("Parent"))
+                        return RedirectToAction("Index", "Parent");
                     else if (roles.Contains("Instructor"))
-                        return RedirectToAction("Index", "Instructor");
+                        return RedirectToAction("Dashboard", "Instructor");
+                    else if (roles.Contains("Admin"))
+                        return RedirectToAction("Index", "Admin");
                 }
 
                 ModelState.AddModelError(string.Empty, "Geçersiz giriş denemesi.");

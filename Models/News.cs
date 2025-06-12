@@ -1,32 +1,39 @@
+using System;
 using System.ComponentModel.DataAnnotations;
 
 namespace AutismEducationPlatform.Web.Models
 {
     public class News
     {
+        [Key]
         public int Id { get; set; }
 
         [Required]
-        [MaxLength(200)]
-        public string Title { get; set; }
+        [StringLength(200)]
+        public string Title { get; set; } = string.Empty;
 
         [Required]
-        public string Content { get; set; }
+        [StringLength(2000)]
+        public string Content { get; set; } = string.Empty;
 
         [Required]
-        [MaxLength(500)]
-        public string Summary { get; set; }
-
-        public string? ImageUrl { get; set; }
+        [StringLength(500)]
+        public string Summary { get; set; } = string.Empty;
 
         [Required]
-        public string Category { get; set; }
+        [StringLength(50)]
+        public string Category { get; set; } = string.Empty;
 
-        public DateTime PublishDate { get; set; } = DateTime.Now;
-
-        public string? Source { get; set; }
-
-        [Required]
         public bool IsActive { get; set; } = true;
+
+        public DateTime PublishDate { get; set; } = DateTime.UtcNow;
+
+        [StringLength(450)]
+        public string? AuthorId { get; set; }
+
+        public virtual ApplicationUser? Author { get; set; }
+
+        [StringLength(200)]
+        public string? ImageUrl { get; set; }
     }
 } 

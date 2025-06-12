@@ -114,6 +114,8 @@ using (var scope = app.Services.CreateScope())
                 await userManager.AddToRoleAsync(adminUser, "Admin");
             }
         }
+
+        SeedData.Initialize(services);
     }
     catch (Exception ex)
     {

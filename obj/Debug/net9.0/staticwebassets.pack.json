@@ -1,1535 +1,1575 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\AutismEducationPlatform.Web.bundle.scp.css",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\AutismEducationPlatform.Web.bundle.scp.css",
       "PackagePath": "staticwebassets\\AutismEducationPlatform.Web.5mwp3d5cvr.bundle.scp.css"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\css\\home.css",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\css\\home.css",
       "PackagePath": "staticwebassets\\css\\home.css"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\css\\site.css",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\css\\parent-dashboard.css",
+      "PackagePath": "staticwebassets\\css\\parent-dashboard.css"
+    },
+    {
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\favicon.ico",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\images\\animals\\bird.jpg",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\images\\animals\\bird.jpg",
       "PackagePath": "staticwebassets\\images\\animals\\bird.jpg"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\images\\animals\\cat.jpg",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\images\\animals\\cat.jpg",
       "PackagePath": "staticwebassets\\images\\animals\\cat.jpg"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\images\\animals\\chicken.jpg",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\images\\animals\\chicken.jpg",
       "PackagePath": "staticwebassets\\images\\animals\\chicken.jpg"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\images\\animals\\cow.jpg",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\images\\animals\\cow.jpg",
       "PackagePath": "staticwebassets\\images\\animals\\cow.jpg"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\images\\animals\\dog.jpg",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\images\\animals\\dog.jpg",
       "PackagePath": "staticwebassets\\images\\animals\\dog.jpg"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\images\\animals\\elephant.jpg",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\images\\animals\\elephant.jpg",
       "PackagePath": "staticwebassets\\images\\animals\\elephant.jpg"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\images\\animals\\horse.jpg",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\images\\animals\\horse.jpg",
       "PackagePath": "staticwebassets\\images\\animals\\horse.jpg"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\images\\animals\\lion.jpg",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\images\\animals\\lion.jpg",
       "PackagePath": "staticwebassets\\images\\animals\\lion.jpg"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\images\\colors\\kahverengi.jpg",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\images\\colors\\kahverengi.jpg",
       "PackagePath": "staticwebassets\\images\\colors\\kahverengi.jpg"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\images\\colors\\kirmizi.jpg",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\images\\colors\\kirmizi.jpg",
       "PackagePath": "staticwebassets\\images\\colors\\kirmizi.jpg"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\images\\colors\\mavi.jpg",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\images\\colors\\mavi.jpg",
       "PackagePath": "staticwebassets\\images\\colors\\mavi.jpg"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\images\\colors\\mor.jpg",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\images\\colors\\mor.jpg",
       "PackagePath": "staticwebassets\\images\\colors\\mor.jpg"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\images\\colors\\pembe.jpg",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\images\\colors\\pembe.jpg",
       "PackagePath": "staticwebassets\\images\\colors\\pembe.jpg"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\images\\colors\\sari.jpg",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\images\\colors\\sari.jpg",
       "PackagePath": "staticwebassets\\images\\colors\\sari.jpg"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\images\\colors\\siyah.jpg",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\images\\colors\\siyah.jpg",
       "PackagePath": "staticwebassets\\images\\colors\\siyah.jpg"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\images\\colors\\turuncu.jpg",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\images\\colors\\turuncu.jpg",
       "PackagePath": "staticwebassets\\images\\colors\\turuncu.jpg"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\images\\hero-illustration.svg",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\images\\courses\\animals.jpg",
+      "PackagePath": "staticwebassets\\images\\courses\\animals.jpg"
+    },
+    {
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\images\\courses\\colors.png",
+      "PackagePath": "staticwebassets\\images\\courses\\colors.png"
+    },
+    {
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\images\\courses\\emotions.jpg",
+      "PackagePath": "staticwebassets\\images\\courses\\emotions.jpg"
+    },
+    {
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\images\\courses\\manners.jpg",
+      "PackagePath": "staticwebassets\\images\\courses\\manners.jpg"
+    },
+    {
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\images\\courses\\numbers.jpg",
+      "PackagePath": "staticwebassets\\images\\courses\\numbers.jpg"
+    },
+    {
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\images\\courses\\shapes.jpg",
+      "PackagePath": "staticwebassets\\images\\courses\\shapes.jpg"
+    },
+    {
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\images\\courses\\stories.jpg",
+      "PackagePath": "staticwebassets\\images\\courses\\stories.jpg"
+    },
+    {
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\images\\courses\\traffic.jpg",
+      "PackagePath": "staticwebassets\\images\\courses\\traffic.jpg"
+    },
+    {
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\images\\courses\\videos.jpg",
+      "PackagePath": "staticwebassets\\images\\courses\\videos.jpg"
+    },
+    {
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\images\\hero-illustration.svg",
       "PackagePath": "staticwebassets\\images\\hero-illustration.svg"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\images\\logo.svg",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\images\\logo.svg",
       "PackagePath": "staticwebassets\\images\\logo.svg"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\images\\manners\\dinle.jpg",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\images\\manners\\dinle.jpg",
       "PackagePath": "staticwebassets\\images\\manners\\dinle.jpg"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\images\\manners\\kapi.jpg",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\images\\manners\\kapi.jpg",
       "PackagePath": "staticwebassets\\images\\manners\\kapi.jpg"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\images\\manners\\ozur.jpg",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\images\\manners\\ozur.jpg",
       "PackagePath": "staticwebassets\\images\\manners\\ozur.jpg"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\images\\manners\\paylasma.png",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\images\\manners\\paylasma.png",
       "PackagePath": "staticwebassets\\images\\manners\\paylasma.png"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\images\\manners\\selam.jpg",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\images\\manners\\selam.jpg",
       "PackagePath": "staticwebassets\\images\\manners\\selam.jpg"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\images\\manners\\sira.jpg",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\images\\manners\\sira.jpg",
       "PackagePath": "staticwebassets\\images\\manners\\sira.jpg"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\images\\manners\\sofra.png",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\images\\manners\\sofra.png",
       "PackagePath": "staticwebassets\\images\\manners\\sofra.png"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\images\\manners\\tesekkur.jpg",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\images\\manners\\tesekkur.jpg",
       "PackagePath": "staticwebassets\\images\\manners\\tesekkur.jpg"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\images\\numbers\\0.jpg",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\images\\numbers\\0.jpg",
       "PackagePath": "staticwebassets\\images\\numbers\\0.jpg"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\images\\numbers\\1.jpg",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\images\\numbers\\1.jpg",
       "PackagePath": "staticwebassets\\images\\numbers\\1.jpg"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\images\\numbers\\2.jpg",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\images\\numbers\\2.jpg",
       "PackagePath": "staticwebassets\\images\\numbers\\2.jpg"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\images\\numbers\\3.jpg",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\images\\numbers\\3.jpg",
       "PackagePath": "staticwebassets\\images\\numbers\\3.jpg"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\images\\numbers\\4.jpg",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\images\\numbers\\4.jpg",
       "PackagePath": "staticwebassets\\images\\numbers\\4.jpg"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\images\\numbers\\5.jpg",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\images\\numbers\\5.jpg",
       "PackagePath": "staticwebassets\\images\\numbers\\5.jpg"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\images\\numbers\\6.jpg",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\images\\numbers\\6.jpg",
       "PackagePath": "staticwebassets\\images\\numbers\\6.jpg"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\images\\numbers\\7.jpg",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\images\\numbers\\7.jpg",
       "PackagePath": "staticwebassets\\images\\numbers\\7.jpg"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\images\\numbers\\8.jpg",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\images\\numbers\\8.jpg",
       "PackagePath": "staticwebassets\\images\\numbers\\8.jpg"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\images\\numbers\\9.jpg",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\images\\numbers\\9.jpg",
       "PackagePath": "staticwebassets\\images\\numbers\\9.jpg"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\images\\pattern.png",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\images\\pattern.png",
       "PackagePath": "staticwebassets\\images\\pattern.png"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\images\\shapes\\README.txt",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\images\\shapes\\README.txt",
       "PackagePath": "staticwebassets\\images\\shapes\\README.txt"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\images\\shapes\\altigen.jpg",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\images\\shapes\\altigen.jpg",
       "PackagePath": "staticwebassets\\images\\shapes\\altigen.jpg"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\images\\shapes\\besgen.jpg",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\images\\shapes\\besgen.jpg",
       "PackagePath": "staticwebassets\\images\\shapes\\besgen.jpg"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\images\\shapes\\daire.jpg",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\images\\shapes\\daire.jpg",
       "PackagePath": "staticwebassets\\images\\shapes\\daire.jpg"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\images\\shapes\\dikdortgen.jpg",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\images\\shapes\\dikdortgen.jpg",
       "PackagePath": "staticwebassets\\images\\shapes\\dikdortgen.jpg"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\images\\shapes\\kare.jpg",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\images\\shapes\\kare.jpg",
       "PackagePath": "staticwebassets\\images\\shapes\\kare.jpg"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\images\\shapes\\oval.jpg",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\images\\shapes\\oval.jpg",
       "PackagePath": "staticwebassets\\images\\shapes\\oval.jpg"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\images\\shapes\\ucgen.jpg",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\images\\shapes\\ucgen.jpg",
       "PackagePath": "staticwebassets\\images\\shapes\\ucgen.jpg"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\images\\shapes\\yildiz.jpg",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\images\\shapes\\yildiz.jpg",
       "PackagePath": "staticwebassets\\images\\shapes\\yildiz.jpg"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\images\\traffic\\bisiklet.jpg",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\images\\traffic\\bisiklet.jpg",
       "PackagePath": "staticwebassets\\images\\traffic\\bisiklet.jpg"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\images\\traffic\\dur.jpg",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\images\\traffic\\dur.jpg",
       "PackagePath": "staticwebassets\\images\\traffic\\dur.jpg"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\images\\traffic\\hastane.jpg",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\images\\traffic\\hastane.jpg",
       "PackagePath": "staticwebassets\\images\\traffic\\hastane.jpg"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\images\\traffic\\isik.jpg",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\images\\traffic\\isik.jpg",
       "PackagePath": "staticwebassets\\images\\traffic\\isik.jpg"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\images\\traffic\\okul.jpg",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\images\\traffic\\okul.jpg",
       "PackagePath": "staticwebassets\\images\\traffic\\okul.jpg"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\images\\traffic\\park.jpg",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\images\\traffic\\park.jpg",
       "PackagePath": "staticwebassets\\images\\traffic\\park.jpg"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\images\\traffic\\yaya.jpg",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\images\\traffic\\yaya.jpg",
       "PackagePath": "staticwebassets\\images\\traffic\\yaya.jpg"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\images\\traffic\\yon.jpg",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\images\\traffic\\yon.jpg",
       "PackagePath": "staticwebassets\\images\\traffic\\yon.jpg"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\js\\site.js",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\lib\\bootstrap\\LICENSE",
       "PackagePath": "staticwebassets\\lib\\bootstrap"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\lib\\bootstrap\\dist\\scss\\_accordion.scss",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\lib\\bootstrap\\dist\\scss\\_accordion.scss",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\scss\\_accordion.scss"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\lib\\bootstrap\\dist\\scss\\_alert.scss",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\lib\\bootstrap\\dist\\scss\\_alert.scss",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\scss\\_alert.scss"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\lib\\bootstrap\\dist\\scss\\_badge.scss",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\lib\\bootstrap\\dist\\scss\\_badge.scss",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\scss\\_badge.scss"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\lib\\bootstrap\\dist\\scss\\_breadcrumb.scss",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\lib\\bootstrap\\dist\\scss\\_breadcrumb.scss",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\scss\\_breadcrumb.scss"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\lib\\bootstrap\\dist\\scss\\_button-group.scss",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\lib\\bootstrap\\dist\\scss\\_button-group.scss",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\scss\\_button-group.scss"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\lib\\bootstrap\\dist\\scss\\_buttons.scss",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\lib\\bootstrap\\dist\\scss\\_buttons.scss",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\scss\\_buttons.scss"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\lib\\bootstrap\\dist\\scss\\_card.scss",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\lib\\bootstrap\\dist\\scss\\_card.scss",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\scss\\_card.scss"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\lib\\bootstrap\\dist\\scss\\_carousel.scss",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\lib\\bootstrap\\dist\\scss\\_carousel.scss",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\scss\\_carousel.scss"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\lib\\bootstrap\\dist\\scss\\_close.scss",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\lib\\bootstrap\\dist\\scss\\_close.scss",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\scss\\_close.scss"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\lib\\bootstrap\\dist\\scss\\_containers.scss",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\lib\\bootstrap\\dist\\scss\\_containers.scss",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\scss\\_containers.scss"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\lib\\bootstrap\\dist\\scss\\_dropdown.scss",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\lib\\bootstrap\\dist\\scss\\_dropdown.scss",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\scss\\_dropdown.scss"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\lib\\bootstrap\\dist\\scss\\_forms.scss",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\lib\\bootstrap\\dist\\scss\\_forms.scss",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\scss\\_forms.scss"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\lib\\bootstrap\\dist\\scss\\_functions.scss",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\lib\\bootstrap\\dist\\scss\\_functions.scss",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\scss\\_functions.scss"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\lib\\bootstrap\\dist\\scss\\_grid.scss",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\lib\\bootstrap\\dist\\scss\\_grid.scss",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\scss\\_grid.scss"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\lib\\bootstrap\\dist\\scss\\_helpers.scss",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\lib\\bootstrap\\dist\\scss\\_helpers.scss",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\scss\\_helpers.scss"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\lib\\bootstrap\\dist\\scss\\_images.scss",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\lib\\bootstrap\\dist\\scss\\_images.scss",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\scss\\_images.scss"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\lib\\bootstrap\\dist\\scss\\_list-group.scss",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\lib\\bootstrap\\dist\\scss\\_list-group.scss",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\scss\\_list-group.scss"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\lib\\bootstrap\\dist\\scss\\_maps.scss",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\lib\\bootstrap\\dist\\scss\\_maps.scss",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\scss\\_maps.scss"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\lib\\bootstrap\\dist\\scss\\_mixins.scss",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\lib\\bootstrap\\dist\\scss\\_mixins.scss",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\scss\\_mixins.scss"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\lib\\bootstrap\\dist\\scss\\_modal.scss",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\lib\\bootstrap\\dist\\scss\\_modal.scss",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\scss\\_modal.scss"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\lib\\bootstrap\\dist\\scss\\_nav.scss",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\lib\\bootstrap\\dist\\scss\\_nav.scss",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\scss\\_nav.scss"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\lib\\bootstrap\\dist\\scss\\_navbar.scss",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\lib\\bootstrap\\dist\\scss\\_navbar.scss",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\scss\\_navbar.scss"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\lib\\bootstrap\\dist\\scss\\_offcanvas.scss",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\lib\\bootstrap\\dist\\scss\\_offcanvas.scss",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\scss\\_offcanvas.scss"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\lib\\bootstrap\\dist\\scss\\_pagination.scss",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\lib\\bootstrap\\dist\\scss\\_pagination.scss",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\scss\\_pagination.scss"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\lib\\bootstrap\\dist\\scss\\_placeholders.scss",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\lib\\bootstrap\\dist\\scss\\_placeholders.scss",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\scss\\_placeholders.scss"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\lib\\bootstrap\\dist\\scss\\_popover.scss",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\lib\\bootstrap\\dist\\scss\\_popover.scss",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\scss\\_popover.scss"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\lib\\bootstrap\\dist\\scss\\_progress.scss",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\lib\\bootstrap\\dist\\scss\\_progress.scss",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\scss\\_progress.scss"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\lib\\bootstrap\\dist\\scss\\_reboot.scss",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\lib\\bootstrap\\dist\\scss\\_reboot.scss",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\scss\\_reboot.scss"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\lib\\bootstrap\\dist\\scss\\_root.scss",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\lib\\bootstrap\\dist\\scss\\_root.scss",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\scss\\_root.scss"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\lib\\bootstrap\\dist\\scss\\_spinners.scss",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\lib\\bootstrap\\dist\\scss\\_spinners.scss",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\scss\\_spinners.scss"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\lib\\bootstrap\\dist\\scss\\_tables.scss",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\lib\\bootstrap\\dist\\scss\\_tables.scss",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\scss\\_tables.scss"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\lib\\bootstrap\\dist\\scss\\_toasts.scss",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\lib\\bootstrap\\dist\\scss\\_toasts.scss",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\scss\\_toasts.scss"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\lib\\bootstrap\\dist\\scss\\_tooltip.scss",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\lib\\bootstrap\\dist\\scss\\_tooltip.scss",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\scss\\_tooltip.scss"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\lib\\bootstrap\\dist\\scss\\_transitions.scss",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\lib\\bootstrap\\dist\\scss\\_transitions.scss",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\scss\\_transitions.scss"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\lib\\bootstrap\\dist\\scss\\_type.scss",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\lib\\bootstrap\\dist\\scss\\_type.scss",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\scss\\_type.scss"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\lib\\bootstrap\\dist\\scss\\_utilities.scss",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\lib\\bootstrap\\dist\\scss\\_utilities.scss",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\scss\\_utilities.scss"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\lib\\bootstrap\\dist\\scss\\_variables-dark.scss",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\lib\\bootstrap\\dist\\scss\\_variables-dark.scss",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\scss\\_variables-dark.scss"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\lib\\bootstrap\\dist\\scss\\_variables.scss",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\lib\\bootstrap\\dist\\scss\\_variables.scss",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\scss\\_variables.scss"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\lib\\bootstrap\\dist\\scss\\bootstrap-grid.scss",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\lib\\bootstrap\\dist\\scss\\bootstrap-grid.scss",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\scss\\bootstrap-grid.scss"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\lib\\bootstrap\\dist\\scss\\bootstrap-reboot.scss",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\lib\\bootstrap\\dist\\scss\\bootstrap-reboot.scss",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\scss\\bootstrap-reboot.scss"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\lib\\bootstrap\\dist\\scss\\bootstrap-utilities.scss",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\lib\\bootstrap\\dist\\scss\\bootstrap-utilities.scss",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\scss\\bootstrap-utilities.scss"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\lib\\bootstrap\\dist\\scss\\bootstrap.scss",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\lib\\bootstrap\\dist\\scss\\bootstrap.scss",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\scss\\bootstrap.scss"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\lib\\bootstrap\\dist\\scss\\forms\\_floating-labels.scss",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\lib\\bootstrap\\dist\\scss\\forms\\_floating-labels.scss",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\scss\\forms\\_floating-labels.scss"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\lib\\bootstrap\\dist\\scss\\forms\\_form-check.scss",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\lib\\bootstrap\\dist\\scss\\forms\\_form-check.scss",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\scss\\forms\\_form-check.scss"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\lib\\bootstrap\\dist\\scss\\forms\\_form-control.scss",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\lib\\bootstrap\\dist\\scss\\forms\\_form-control.scss",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\scss\\forms\\_form-control.scss"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\lib\\bootstrap\\dist\\scss\\forms\\_form-range.scss",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\lib\\bootstrap\\dist\\scss\\forms\\_form-range.scss",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\scss\\forms\\_form-range.scss"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\lib\\bootstrap\\dist\\scss\\forms\\_form-select.scss",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\lib\\bootstrap\\dist\\scss\\forms\\_form-select.scss",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\scss\\forms\\_form-select.scss"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\lib\\bootstrap\\dist\\scss\\forms\\_form-text.scss",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\lib\\bootstrap\\dist\\scss\\forms\\_form-text.scss",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\scss\\forms\\_form-text.scss"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\lib\\bootstrap\\dist\\scss\\forms\\_input-group.scss",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\lib\\bootstrap\\dist\\scss\\forms\\_input-group.scss",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\scss\\forms\\_input-group.scss"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\lib\\bootstrap\\dist\\scss\\forms\\_labels.scss",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\lib\\bootstrap\\dist\\scss\\forms\\_labels.scss",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\scss\\forms\\_labels.scss"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\lib\\bootstrap\\dist\\scss\\forms\\_validation.scss",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\lib\\bootstrap\\dist\\scss\\forms\\_validation.scss",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\scss\\forms\\_validation.scss"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\lib\\bootstrap\\dist\\scss\\helpers\\_clearfix.scss",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\lib\\bootstrap\\dist\\scss\\helpers\\_clearfix.scss",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\scss\\helpers\\_clearfix.scss"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\lib\\bootstrap\\dist\\scss\\helpers\\_color-bg.scss",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\lib\\bootstrap\\dist\\scss\\helpers\\_color-bg.scss",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\scss\\helpers\\_color-bg.scss"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\lib\\bootstrap\\dist\\scss\\helpers\\_colored-links.scss",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\lib\\bootstrap\\dist\\scss\\helpers\\_colored-links.scss",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\scss\\helpers\\_colored-links.scss"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\lib\\bootstrap\\dist\\scss\\helpers\\_focus-ring.scss",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\lib\\bootstrap\\dist\\scss\\helpers\\_focus-ring.scss",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\scss\\helpers\\_focus-ring.scss"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\lib\\bootstrap\\dist\\scss\\helpers\\_icon-link.scss",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\lib\\bootstrap\\dist\\scss\\helpers\\_icon-link.scss",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\scss\\helpers\\_icon-link.scss"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\lib\\bootstrap\\dist\\scss\\helpers\\_position.scss",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\lib\\bootstrap\\dist\\scss\\helpers\\_position.scss",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\scss\\helpers\\_position.scss"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\lib\\bootstrap\\dist\\scss\\helpers\\_ratio.scss",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\lib\\bootstrap\\dist\\scss\\helpers\\_ratio.scss",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\scss\\helpers\\_ratio.scss"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\lib\\bootstrap\\dist\\scss\\helpers\\_stacks.scss",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\lib\\bootstrap\\dist\\scss\\helpers\\_stacks.scss",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\scss\\helpers\\_stacks.scss"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\lib\\bootstrap\\dist\\scss\\helpers\\_stretched-link.scss",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\lib\\bootstrap\\dist\\scss\\helpers\\_stretched-link.scss",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\scss\\helpers\\_stretched-link.scss"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\lib\\bootstrap\\dist\\scss\\helpers\\_text-truncation.scss",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\lib\\bootstrap\\dist\\scss\\helpers\\_text-truncation.scss",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\scss\\helpers\\_text-truncation.scss"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\lib\\bootstrap\\dist\\scss\\helpers\\_visually-hidden.scss",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\lib\\bootstrap\\dist\\scss\\helpers\\_visually-hidden.scss",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\scss\\helpers\\_visually-hidden.scss"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\lib\\bootstrap\\dist\\scss\\helpers\\_vr.scss",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\lib\\bootstrap\\dist\\scss\\helpers\\_vr.scss",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\scss\\helpers\\_vr.scss"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\lib\\bootstrap\\dist\\scss\\mixins\\_alert.scss",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\lib\\bootstrap\\dist\\scss\\mixins\\_alert.scss",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\scss\\mixins\\_alert.scss"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\lib\\bootstrap\\dist\\scss\\mixins\\_backdrop.scss",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\lib\\bootstrap\\dist\\scss\\mixins\\_backdrop.scss",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\scss\\mixins\\_backdrop.scss"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\lib\\bootstrap\\dist\\scss\\mixins\\_banner.scss",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\lib\\bootstrap\\dist\\scss\\mixins\\_banner.scss",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\scss\\mixins\\_banner.scss"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\lib\\bootstrap\\dist\\scss\\mixins\\_border-radius.scss",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\lib\\bootstrap\\dist\\scss\\mixins\\_border-radius.scss",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\scss\\mixins\\_border-radius.scss"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\lib\\bootstrap\\dist\\scss\\mixins\\_box-shadow.scss",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\lib\\bootstrap\\dist\\scss\\mixins\\_box-shadow.scss",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\scss\\mixins\\_box-shadow.scss"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\lib\\bootstrap\\dist\\scss\\mixins\\_breakpoints.scss",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\lib\\bootstrap\\dist\\scss\\mixins\\_breakpoints.scss",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\scss\\mixins\\_breakpoints.scss"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\lib\\bootstrap\\dist\\scss\\mixins\\_buttons.scss",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\lib\\bootstrap\\dist\\scss\\mixins\\_buttons.scss",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\scss\\mixins\\_buttons.scss"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\lib\\bootstrap\\dist\\scss\\mixins\\_caret.scss",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\lib\\bootstrap\\dist\\scss\\mixins\\_caret.scss",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\scss\\mixins\\_caret.scss"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\lib\\bootstrap\\dist\\scss\\mixins\\_clearfix.scss",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\lib\\bootstrap\\dist\\scss\\mixins\\_clearfix.scss",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\scss\\mixins\\_clearfix.scss"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\lib\\bootstrap\\dist\\scss\\mixins\\_color-mode.scss",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\lib\\bootstrap\\dist\\scss\\mixins\\_color-mode.scss",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\scss\\mixins\\_color-mode.scss"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\lib\\bootstrap\\dist\\scss\\mixins\\_color-scheme.scss",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\lib\\bootstrap\\dist\\scss\\mixins\\_color-scheme.scss",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\scss\\mixins\\_color-scheme.scss"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\lib\\bootstrap\\dist\\scss\\mixins\\_container.scss",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\lib\\bootstrap\\dist\\scss\\mixins\\_container.scss",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\scss\\mixins\\_container.scss"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\lib\\bootstrap\\dist\\scss\\mixins\\_deprecate.scss",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\lib\\bootstrap\\dist\\scss\\mixins\\_deprecate.scss",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\scss\\mixins\\_deprecate.scss"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\lib\\bootstrap\\dist\\scss\\mixins\\_forms.scss",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\lib\\bootstrap\\dist\\scss\\mixins\\_forms.scss",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\scss\\mixins\\_forms.scss"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\lib\\bootstrap\\dist\\scss\\mixins\\_gradients.scss",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\lib\\bootstrap\\dist\\scss\\mixins\\_gradients.scss",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\scss\\mixins\\_gradients.scss"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\lib\\bootstrap\\dist\\scss\\mixins\\_grid.scss",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\lib\\bootstrap\\dist\\scss\\mixins\\_grid.scss",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\scss\\mixins\\_grid.scss"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\lib\\bootstrap\\dist\\scss\\mixins\\_image.scss",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\lib\\bootstrap\\dist\\scss\\mixins\\_image.scss",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\scss\\mixins\\_image.scss"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\lib\\bootstrap\\dist\\scss\\mixins\\_list-group.scss",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\lib\\bootstrap\\dist\\scss\\mixins\\_list-group.scss",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\scss\\mixins\\_list-group.scss"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\lib\\bootstrap\\dist\\scss\\mixins\\_lists.scss",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\lib\\bootstrap\\dist\\scss\\mixins\\_lists.scss",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\scss\\mixins\\_lists.scss"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\lib\\bootstrap\\dist\\scss\\mixins\\_pagination.scss",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\lib\\bootstrap\\dist\\scss\\mixins\\_pagination.scss",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\scss\\mixins\\_pagination.scss"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\lib\\bootstrap\\dist\\scss\\mixins\\_reset-text.scss",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\lib\\bootstrap\\dist\\scss\\mixins\\_reset-text.scss",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\scss\\mixins\\_reset-text.scss"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\lib\\bootstrap\\dist\\scss\\mixins\\_resize.scss",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\lib\\bootstrap\\dist\\scss\\mixins\\_resize.scss",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\scss\\mixins\\_resize.scss"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\lib\\bootstrap\\dist\\scss\\mixins\\_table-variants.scss",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\lib\\bootstrap\\dist\\scss\\mixins\\_table-variants.scss",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\scss\\mixins\\_table-variants.scss"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\lib\\bootstrap\\dist\\scss\\mixins\\_text-truncate.scss",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\lib\\bootstrap\\dist\\scss\\mixins\\_text-truncate.scss",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\scss\\mixins\\_text-truncate.scss"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\lib\\bootstrap\\dist\\scss\\mixins\\_transition.scss",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\lib\\bootstrap\\dist\\scss\\mixins\\_transition.scss",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\scss\\mixins\\_transition.scss"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\lib\\bootstrap\\dist\\scss\\mixins\\_utilities.scss",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\lib\\bootstrap\\dist\\scss\\mixins\\_utilities.scss",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\scss\\mixins\\_utilities.scss"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\lib\\bootstrap\\dist\\scss\\mixins\\_visually-hidden.scss",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\lib\\bootstrap\\dist\\scss\\mixins\\_visually-hidden.scss",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\scss\\mixins\\_visually-hidden.scss"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\lib\\bootstrap\\dist\\scss\\utilities\\_api.scss",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\lib\\bootstrap\\dist\\scss\\utilities\\_api.scss",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\scss\\utilities\\_api.scss"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\lib\\bootstrap\\dist\\scss\\vendor\\_rfs.scss",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\lib\\bootstrap\\dist\\scss\\vendor\\_rfs.scss",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\scss\\vendor\\_rfs.scss"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.js",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.js"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.min.js",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\lib\\jquery-validation\\dist\\jquery-validation-sri.json",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\lib\\jquery-validation\\dist\\jquery-validation-sri.json",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery-validation-sri.json"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_ar.js",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_ar.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_ar.js"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_ar.min.js",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_ar.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_ar.min.js"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_az.js",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_az.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_az.js"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_az.min.js",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_az.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_az.min.js"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_bg.js",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_bg.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_bg.js"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_bg.min.js",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_bg.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_bg.min.js"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_bn_BD.js",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_bn_BD.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_bn_BD.js"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_bn_BD.min.js",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_bn_BD.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_bn_BD.min.js"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_ca.js",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_ca.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_ca.js"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_ca.min.js",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_ca.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_ca.min.js"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_cs.js",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_cs.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_cs.js"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_cs.min.js",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_cs.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_cs.min.js"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_da.js",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_da.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_da.js"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_da.min.js",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_da.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_da.min.js"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_de.js",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_de.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_de.js"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_de.min.js",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_de.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_de.min.js"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_el.js",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_el.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_el.js"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_el.min.js",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_el.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_el.min.js"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_es.js",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_es.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_es.js"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_es.min.js",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_es.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_es.min.js"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_es_AR.js",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_es_AR.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_es_AR.js"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_es_AR.min.js",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_es_AR.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_es_AR.min.js"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_es_PE.js",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_es_PE.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_es_PE.js"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_es_PE.min.js",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_es_PE.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_es_PE.min.js"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_et.js",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_et.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_et.js"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_et.min.js",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_et.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_et.min.js"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_eu.js",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_eu.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_eu.js"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_eu.min.js",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_eu.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_eu.min.js"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_fa.js",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_fa.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_fa.js"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_fa.min.js",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_fa.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_fa.min.js"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_fi.js",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_fi.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_fi.js"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_fi.min.js",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_fi.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_fi.min.js"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_fr.js",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_fr.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_fr.js"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_fr.min.js",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_fr.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_fr.min.js"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_ge.js",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_ge.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_ge.js"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_ge.min.js",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_ge.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_ge.min.js"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_gl.js",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_gl.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_gl.js"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_gl.min.js",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_gl.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_gl.min.js"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_he.js",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_he.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_he.js"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_he.min.js",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_he.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_he.min.js"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_hi.js",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_hi.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_hi.js"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_hi.min.js",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_hi.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_hi.min.js"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_hr.js",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_hr.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_hr.js"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_hr.min.js",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_hr.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_hr.min.js"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_hu.js",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_hu.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_hu.js"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_hu.min.js",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_hu.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_hu.min.js"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_hy_AM.js",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_hy_AM.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_hy_AM.js"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_hy_AM.min.js",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_hy_AM.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_hy_AM.min.js"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_id.js",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_id.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_id.js"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_id.min.js",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_id.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_id.min.js"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_is.js",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_is.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_is.js"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_is.min.js",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_is.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_is.min.js"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_it.js",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_it.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_it.js"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_it.min.js",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_it.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_it.min.js"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_ja.js",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_ja.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_ja.js"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_ja.min.js",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_ja.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_ja.min.js"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_ka.js",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_ka.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_ka.js"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_ka.min.js",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_ka.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_ka.min.js"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_kk.js",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_kk.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_kk.js"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_kk.min.js",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_kk.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_kk.min.js"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_ko.js",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_ko.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_ko.js"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_ko.min.js",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_ko.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_ko.min.js"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_lt.js",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_lt.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_lt.js"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_lt.min.js",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_lt.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_lt.min.js"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_lv.js",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_lv.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_lv.js"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_lv.min.js",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_lv.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_lv.min.js"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_mk.js",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_mk.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_mk.js"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_mk.min.js",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_mk.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_mk.min.js"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_my.js",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_my.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_my.js"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_my.min.js",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_my.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_my.min.js"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_nl.js",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_nl.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_nl.js"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_nl.min.js",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_nl.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_nl.min.js"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_no.js",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_no.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_no.js"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_no.min.js",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_no.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_no.min.js"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_pl.js",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_pl.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_pl.js"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_pl.min.js",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_pl.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_pl.min.js"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_pt_BR.js",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_pt_BR.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_pt_BR.js"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_pt_BR.min.js",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_pt_BR.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_pt_BR.min.js"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_pt_PT.js",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_pt_PT.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_pt_PT.js"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_pt_PT.min.js",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_pt_PT.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_pt_PT.min.js"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_ro.js",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_ro.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_ro.js"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_ro.min.js",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_ro.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_ro.min.js"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_ru.js",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_ru.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_ru.js"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_ru.min.js",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_ru.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_ru.min.js"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_sd.js",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_sd.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_sd.js"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_sd.min.js",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_sd.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_sd.min.js"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_si.js",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_si.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_si.js"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_si.min.js",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_si.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_si.min.js"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_sk.js",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_sk.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_sk.js"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_sk.min.js",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_sk.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_sk.min.js"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_sl.js",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_sl.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_sl.js"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_sl.min.js",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_sl.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_sl.min.js"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_sr.js",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_sr.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_sr.js"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_sr.min.js",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_sr.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_sr.min.js"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_sr_lat.js",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_sr_lat.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_sr_lat.js"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_sr_lat.min.js",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_sr_lat.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_sr_lat.min.js"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_sv.js",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_sv.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_sv.js"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_sv.min.js",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_sv.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_sv.min.js"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_th.js",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_th.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_th.js"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_th.min.js",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_th.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_th.min.js"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_tj.js",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_tj.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_tj.js"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_tj.min.js",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_tj.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_tj.min.js"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_tr.js",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_tr.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_tr.js"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_tr.min.js",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_tr.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_tr.min.js"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_uk.js",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_uk.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_uk.js"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_uk.min.js",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_uk.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_uk.min.js"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_ur.js",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_ur.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_ur.js"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_ur.min.js",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_ur.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_ur.min.js"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_vi.js",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_vi.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_vi.js"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_vi.min.js",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_vi.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_vi.min.js"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_zh.js",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_zh.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_zh.js"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_zh.min.js",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_zh.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_zh.min.js"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_zh_TW.js",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_zh_TW.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_zh_TW.js"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_zh_TW.min.js",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_zh_TW.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_zh_TW.min.js"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\lib\\jquery-validation\\dist\\localization\\methods_de.js",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\lib\\jquery-validation\\dist\\localization\\methods_de.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\methods_de.js"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\lib\\jquery-validation\\dist\\localization\\methods_de.min.js",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\lib\\jquery-validation\\dist\\localization\\methods_de.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\methods_de.min.js"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\lib\\jquery-validation\\dist\\localization\\methods_es_CL.js",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\lib\\jquery-validation\\dist\\localization\\methods_es_CL.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\methods_es_CL.js"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\lib\\jquery-validation\\dist\\localization\\methods_es_CL.min.js",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\lib\\jquery-validation\\dist\\localization\\methods_es_CL.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\methods_es_CL.min.js"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\lib\\jquery-validation\\dist\\localization\\methods_fi.js",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\lib\\jquery-validation\\dist\\localization\\methods_fi.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\methods_fi.js"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\lib\\jquery-validation\\dist\\localization\\methods_fi.min.js",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\lib\\jquery-validation\\dist\\localization\\methods_fi.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\methods_fi.min.js"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\lib\\jquery-validation\\dist\\localization\\methods_it.js",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\lib\\jquery-validation\\dist\\localization\\methods_it.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\methods_it.js"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\lib\\jquery-validation\\dist\\localization\\methods_it.min.js",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\lib\\jquery-validation\\dist\\localization\\methods_it.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\methods_it.min.js"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\lib\\jquery-validation\\dist\\localization\\methods_nl.js",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\lib\\jquery-validation\\dist\\localization\\methods_nl.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\methods_nl.js"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\lib\\jquery-validation\\dist\\localization\\methods_nl.min.js",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\lib\\jquery-validation\\dist\\localization\\methods_nl.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\methods_nl.min.js"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\lib\\jquery-validation\\dist\\localization\\methods_pt.js",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\lib\\jquery-validation\\dist\\localization\\methods_pt.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\methods_pt.js"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\lib\\jquery-validation\\dist\\localization\\methods_pt.min.js",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\lib\\jquery-validation\\dist\\localization\\methods_pt.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\methods_pt.min.js"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\lib\\jquery\\dist\\jquery.slim.js",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\lib\\jquery\\dist\\jquery.slim.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.slim.js"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\lib\\jquery\\dist\\jquery.slim.min.js",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\lib\\jquery\\dist\\jquery.slim.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.slim.min.js"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\lib\\jquery\\dist\\jquery.slim.min.map",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\lib\\jquery\\dist\\jquery.slim.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.slim.min.map"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\sounds\\animals\\aslan.mp3",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\sounds\\animals\\aslan.mp3",
       "PackagePath": "staticwebassets\\sounds\\animals\\aslan.mp3"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\sounds\\animals\\at.mp3",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\sounds\\animals\\at.mp3",
       "PackagePath": "staticwebassets\\sounds\\animals\\at.mp3"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\sounds\\animals\\fil.mp3",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\sounds\\animals\\fil.mp3",
       "PackagePath": "staticwebassets\\sounds\\animals\\fil.mp3"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\sounds\\animals\\inek.mp3",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\sounds\\animals\\inek.mp3",
       "PackagePath": "staticwebassets\\sounds\\animals\\inek.mp3"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\sounds\\animals\\kedi.mp3",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\sounds\\animals\\kedi.mp3",
       "PackagePath": "staticwebassets\\sounds\\animals\\kedi.mp3"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\sounds\\animals\\kopek.mp3",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\sounds\\animals\\kopek.mp3",
       "PackagePath": "staticwebassets\\sounds\\animals\\kopek.mp3"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\sounds\\animals\\kus.mp3",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\sounds\\animals\\kus.mp3",
       "PackagePath": "staticwebassets\\sounds\\animals\\kus.mp3"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\sounds\\animals\\tavuk.mp3",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\sounds\\animals\\tavuk.mp3",
       "PackagePath": "staticwebassets\\sounds\\animals\\tavuk.mp3"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\sounds\\colors\\kahverengi.mp3",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\sounds\\colors\\kahverengi.mp3",
       "PackagePath": "staticwebassets\\sounds\\colors\\kahverengi.mp3"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\sounds\\colors\\kirmizi.mp3",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\sounds\\colors\\kirmizi.mp3",
       "PackagePath": "staticwebassets\\sounds\\colors\\kirmizi.mp3"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\sounds\\colors\\mavi.mp3",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\sounds\\colors\\mavi.mp3",
       "PackagePath": "staticwebassets\\sounds\\colors\\mavi.mp3"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\sounds\\colors\\mor.mp3",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\sounds\\colors\\mor.mp3",
       "PackagePath": "staticwebassets\\sounds\\colors\\mor.mp3"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\sounds\\colors\\pembe.mp3",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\sounds\\colors\\pembe.mp3",
       "PackagePath": "staticwebassets\\sounds\\colors\\pembe.mp3"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\sounds\\colors\\sari.mp3",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\sounds\\colors\\sari.mp3",
       "PackagePath": "staticwebassets\\sounds\\colors\\sari.mp3"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\sounds\\colors\\siyah.mp3",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\sounds\\colors\\siyah.mp3",
       "PackagePath": "staticwebassets\\sounds\\colors\\siyah.mp3"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\sounds\\colors\\turuncu.mp3",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\sounds\\colors\\turuncu.mp3",
       "PackagePath": "staticwebassets\\sounds\\colors\\turuncu.mp3"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\sounds\\manners\\dinlemek.mp3",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\sounds\\manners\\dinlemek.mp3",
       "PackagePath": "staticwebassets\\sounds\\manners\\dinlemek.mp3"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\sounds\\manners\\kapiyicalmak.mp3",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\sounds\\manners\\kapiyicalmak.mp3",
       "PackagePath": "staticwebassets\\sounds\\manners\\kapiyicalmak.mp3"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\sounds\\manners\\ozurdilemek.mp3",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\sounds\\manners\\ozurdilemek.mp3",
       "PackagePath": "staticwebassets\\sounds\\manners\\ozurdilemek.mp3"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\sounds\\manners\\paylasmak.mp3",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\sounds\\manners\\paylasmak.mp3",
       "PackagePath": "staticwebassets\\sounds\\manners\\paylasmak.mp3"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\sounds\\manners\\selamlasmak.mp3",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\sounds\\manners\\selamlasmak.mp3",
       "PackagePath": "staticwebassets\\sounds\\manners\\selamlasmak.mp3"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\sounds\\manners\\sirabeklemek.mp3",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\sounds\\manners\\sirabeklemek.mp3",
       "PackagePath": "staticwebassets\\sounds\\manners\\sirabeklemek.mp3"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\sounds\\manners\\sofraadabi.mp3",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\sounds\\manners\\sofraadabi.mp3",
       "PackagePath": "staticwebassets\\sounds\\manners\\sofraadabi.mp3"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\sounds\\manners\\tesekkuretmek.mp3",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\sounds\\manners\\tesekkuretmek.mp3",
       "PackagePath": "staticwebassets\\sounds\\manners\\tesekkuretmek.mp3"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\sounds\\numbers\\0.mp3",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\sounds\\numbers\\0.mp3",
       "PackagePath": "staticwebassets\\sounds\\numbers\\0.mp3"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\sounds\\numbers\\1.mp3",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\sounds\\numbers\\1.mp3",
       "PackagePath": "staticwebassets\\sounds\\numbers\\1.mp3"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\sounds\\numbers\\2.mp3",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\sounds\\numbers\\2.mp3",
       "PackagePath": "staticwebassets\\sounds\\numbers\\2.mp3"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\sounds\\numbers\\3.mp3",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\sounds\\numbers\\3.mp3",
       "PackagePath": "staticwebassets\\sounds\\numbers\\3.mp3"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\sounds\\numbers\\4.mp3",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\sounds\\numbers\\4.mp3",
       "PackagePath": "staticwebassets\\sounds\\numbers\\4.mp3"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\sounds\\numbers\\5.mp3",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\sounds\\numbers\\5.mp3",
       "PackagePath": "staticwebassets\\sounds\\numbers\\5.mp3"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\sounds\\numbers\\6.mp3",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\sounds\\numbers\\6.mp3",
       "PackagePath": "staticwebassets\\sounds\\numbers\\6.mp3"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\sounds\\numbers\\7.mp3",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\sounds\\numbers\\7.mp3",
       "PackagePath": "staticwebassets\\sounds\\numbers\\7.mp3"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\sounds\\numbers\\8.mp3",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\sounds\\numbers\\8.mp3",
       "PackagePath": "staticwebassets\\sounds\\numbers\\8.mp3"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\sounds\\numbers\\9.mp3",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\sounds\\numbers\\9.mp3",
       "PackagePath": "staticwebassets\\sounds\\numbers\\9.mp3"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\sounds\\shapes\\README.txt",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\sounds\\shapes\\README.txt",
       "PackagePath": "staticwebassets\\sounds\\shapes\\README.txt"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\sounds\\shapes\\altigen.mp3",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\sounds\\shapes\\altigen.mp3",
       "PackagePath": "staticwebassets\\sounds\\shapes\\altigen.mp3"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\sounds\\shapes\\besgen.mp3",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\sounds\\shapes\\besgen.mp3",
       "PackagePath": "staticwebassets\\sounds\\shapes\\besgen.mp3"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\sounds\\shapes\\daire.mp3",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\sounds\\shapes\\daire.mp3",
       "PackagePath": "staticwebassets\\sounds\\shapes\\daire.mp3"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\sounds\\shapes\\dikdortgen.mp3",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\sounds\\shapes\\dikdortgen.mp3",
       "PackagePath": "staticwebassets\\sounds\\shapes\\dikdortgen.mp3"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\sounds\\shapes\\kare.mp3",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\sounds\\shapes\\kare.mp3",
       "PackagePath": "staticwebassets\\sounds\\shapes\\kare.mp3"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\sounds\\shapes\\oval.mp3",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\sounds\\shapes\\oval.mp3",
       "PackagePath": "staticwebassets\\sounds\\shapes\\oval.mp3"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\sounds\\shapes\\ucgen.mp3",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\sounds\\shapes\\ucgen.mp3",
       "PackagePath": "staticwebassets\\sounds\\shapes\\ucgen.mp3"
     },
     {
-      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\wwwroot\\sounds\\shapes\\yildiz.mp3",
+      "Id": "C:\\Users\\betulozturk\\newotizm-repo\\wwwroot\\sounds\\shapes\\yildiz.mp3",
       "PackagePath": "staticwebassets\\sounds\\shapes\\yildiz.mp3"
     },
     {

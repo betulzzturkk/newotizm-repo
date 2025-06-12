@@ -1,7 +1,5 @@
 using System;
 using System.ComponentModel.DataAnnotations;
-using System.ComponentModel.DataAnnotations.Schema;
-using Microsoft.AspNetCore.Identity;
 using System.Collections.Generic;
 
 namespace AutismEducationPlatform.Web.Models
@@ -12,38 +10,42 @@ namespace AutismEducationPlatform.Web.Models
         public int Id { get; set; }
 
         [Required]
-        [StringLength(100)]
+        [StringLength(200)]
         public string Name { get; set; } = string.Empty;
 
-        [StringLength(500)]
-        public string? Description { get; set; }
-
-        public int DurationMinutes { get; set; }
-
-        [StringLength(50)]
-        public string? Category { get; set; }
-
-        [StringLength(50)]
-        public string? Difficulty { get; set; }
+        [Required]
+        [StringLength(1000)]
+        public string Description { get; set; } = string.Empty;
 
         [Required]
-        public string? InstructorId { get; set; }
-
-        [ForeignKey("InstructorId")]
-        public ApplicationUser? Instructor { get; set; }
+        [StringLength(50)]
+        public string Category { get; set; } = string.Empty;
 
         public bool IsActive { get; set; } = true;
 
-        public DateTime CreatedAt { get; set; } = DateTime.UtcNow;
-        public DateTime? UpdatedAt { get; set; }
+        public DateTime? CompletionDate { get; set; }
+
+        [StringLength(450)]
+        public string? InstructorId { get; set; }
+
+        public virtual ApplicationUser? Instructor { get; set; }
+
+        public virtual ICollection<Activity> Activities { get; set; } = new List<Activity>();
+
+        [Range(1, 5)]
+        public int DifficultyLevel { get; set; } = 1;
 
         [StringLength(200)]
         public string ImageUrl { get; set; } = "/images/courses/default.jpg";
 
-        public virtual ICollection<Activity>? Activities { get; set; }
+        [Range(1, 180)]
+        public int DurationMinutes { get; set; }
 
         public string Title { get; set; } = string.Empty;
         public string IconClass { get; set; } = string.Empty;
         public string BackgroundColor { get; set; } = string.Empty;
+
+        public DateTime CreatedAt { get; set; } = DateTime.UtcNow;
+        public DateTime? UpdatedAt { get; set; }
     }
 } 

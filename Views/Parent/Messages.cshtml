@@ -1,0 +1,123 @@
+@{
+    ViewData["Title"] = "Mesajlar";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="container mt-4">
+    <div class="row mb-4">
+        <div class="col">
+            <h2 class="mb-3">
+                <i class="fas fa-envelope text-info me-2"></i>
+                Mesajlar
+            </h2>
+            <p class="text-muted">Eğitmenlerle iletişiminizi buradan yönetin.</p>
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="col-md-4 mb-4">
+            <div class="card shadow-sm">
+                <div class="card-header bg-white d-flex justify-content-between align-items-center">
+                    <h5 class="card-title mb-0">Sohbetler</h5>
+                    <button class="btn btn-primary btn-sm">
+                        <i class="fas fa-plus me-1"></i>Yeni Mesaj
+                    </button>
+                </div>
+                <div class="list-group list-group-flush">
+                    <a href="#" class="list-group-item list-group-item-action active">
+                        <div class="d-flex w-100 justify-content-between align-items-center">
+                            <div>
+                                <h6 class="mb-1">Ayşe Öğretmen</h6>
+                                <small>Son mesaj: 5 dakika önce</small>
+                            </div>
+                            <span class="badge bg-primary rounded-pill">2</span>
+                        </div>
+                    </a>
+                    <a href="#" class="list-group-item list-group-item-action">
+                        <div class="d-flex w-100 justify-content-between align-items-center">
+                            <div>
+                                <h6 class="mb-1">Mehmet Öğretmen</h6>
+                                <small>Son mesaj: 2 saat önce</small>
+                            </div>
+                        </div>
+                    </a>
+                    <a href="#" class="list-group-item list-group-item-action">
+                        <div class="d-flex w-100 justify-content-between align-items-center">
+                            <div>
+                                <h6 class="mb-1">Zeynep Öğretmen</h6>
+                                <small>Son mesaj: Dün</small>
+                            </div>
+                        </div>
+                    </a>
+                </div>
+            </div>
+        </div>
+
+        <div class="col-md-8">
+            <div class="card shadow-sm">
+                <div class="card-header bg-white">
+                    <div class="d-flex justify-content-between align-items-center">
+                        <div>
+                            <h5 class="card-title mb-0">Ayşe Öğretmen</h5>
+                            <small class="text-muted">Çevrimiçi</small>
+                        </div>
+                        <div>
+                            <button class="btn btn-outline-primary btn-sm me-2">
+                                <i class="fas fa-video me-1"></i>Görüntülü Görüşme
+                            </button>
+                            <button class="btn btn-outline-primary btn-sm">
+                                <i class="fas fa-phone me-1"></i>Sesli Arama
+                            </button>
+                        </div>
+                    </div>
+                </div>
+                <div class="card-body" style="height: 400px; overflow-y: auto;">
+                    <div class="d-flex flex-column">
+                        <div class="message-received mb-3">
+                            <div class="d-flex">
+                                <img src="/images/profile/default.jpg" class="rounded-circle me-2" style="width: 40px; height: 40px;">
+                                <div>
+                                    <div class="bg-light rounded p-3">
+                                        <p class="mb-0">Merhaba, bugün çocuğunuzun gösterdiği gelişmeler hakkında konuşabilir miyiz?</p>
+                                    </div>
+                                    <small class="text-muted">10:30</small>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="message-sent mb-3">
+                            <div class="d-flex justify-content-end">
+                                <div class="text-end">
+                                    <div class="bg-primary text-white rounded p-3">
+                                        <p class="mb-0">Tabii ki, çok memnun olurum.</p>
+                                    </div>
+                                    <small class="text-muted">10:31</small>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="card-footer bg-white">
+                    <form>
+                        <div class="input-group">
+                            <input type="text" class="form-control" placeholder="Mesajınızı yazın...">
+                            <button class="btn btn-primary">
+                                <i class="fas fa-paper-plane"></i>
+                            </button>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+@section Styles {
+    <style>
+        .message-received .bg-light {
+            background-color: #f8f9fa !important;
+        }
+        .message-sent .bg-primary {
+            background-color: #0d6efd !important;
+        }
+    </style>
+} 

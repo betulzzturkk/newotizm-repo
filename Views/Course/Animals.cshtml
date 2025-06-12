@@ -4,6 +4,81 @@
     ViewData["Title"] = "Hayvanlar";
 }
 
+<style>
+    .progress {
+        height: 25px;
+        background-color: #e9ecef;
+        border-radius: 15px;
+        overflow: hidden;
+        margin-top: 15px;
+    }
+
+    .progress-bar {
+        background-color: #28a745;
+        transition: width 0.6s ease;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        color: white;
+        font-weight: bold;
+    }
+
+    .progress-bar-animated {
+        animation: progressAnimation 1s linear infinite;
+    }
+
+    .progress-bar-striped {
+        background-image: linear-gradient(45deg,
+            rgba(255,255,255,.15) 25%,
+            transparent 25%,
+            transparent 50%,
+            rgba(255,255,255,.15) 50%,
+            rgba(255,255,255,.15) 75%,
+            transparent 75%,
+            transparent);
+        background-size: 1rem 1rem;
+    }
+
+    @@keyframes progressAnimation {
+        from { background-position: 1rem 0; }
+        to { background-position: 0 0; }
+    }
+
+    .card {
+        transition: transform 0.3s ease;
+        border-radius: 15px;
+        overflow: hidden;
+        box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+    }
+
+    .card:hover {
+        transform: translateY(-5px);
+        box-shadow: 0 6px 12px rgba(0,0,0,0.15);
+    }
+
+    .btn-play {
+        background-color: #28a745;
+        border-color: #28a745;
+        transition: all 0.3s ease;
+    }
+
+    .btn-play:hover {
+        background-color: #218838;
+        border-color: #1e7e34;
+        transform: scale(1.05);
+    }
+
+    .btn-play.playing {
+        animation: pulse 1s infinite;
+    }
+
+    @@keyframes pulse {
+        0% { transform: scale(1); }
+        50% { transform: scale(1.05); }
+        100% { transform: scale(1); }
+    }
+</style>
+
 <div class="container mt-4">
     <div class="row mb-4">
         <div class="col">
@@ -17,121 +92,120 @@
         <i class="fas fa-paw me-2"></i>
         Hayvanları Tanıyalım
     </h2>
-    <p class="text-center mb-5">Hayvanların resimlerine tıklayarak seslerini dinleyebilirsiniz!</p>
+    <p class="text-center mb-4">Hayvanların seslerini dinlemek için butona tıklayın!</p>
+    
+    @if (!User.Identity.IsAuthenticated)
+    {
+        <div class="alert alert-info text-center mb-5">
+            <i class="fas fa-info-circle me-2"></i>
+            İlerleme raporunuzun tutulması için 
+            <a href="/Account/Login" class="alert-link">giriş yapın</a> 
+            veya 
+            <a href="/Account/Register" class="alert-link">kaydolun</a>
+        </div>
+    }
 
     <div class="row g-4">
-        @foreach (var animal in Model)
+        @if (Model != null && Model.Any())
         {
-            <div class="col-md-6 col-lg-3">
-                <div class="card animal-card h-100">
-                    <img src="@animal.ImagePath" class="card-img-top animal-image" alt="@animal.Name" 
-                         onclick="playAnimalSound('@animal.SoundPath', '@animal.Name')">
-                    <div class="card-body text-center">
-                        <h5 class="card-title">@animal.Name</h5>
-                        <p class="card-text">@animal.Description</p>
-                        <button class="btn btn-primary play-btn" onclick="playAnimalSound('@animal.SoundPath', '@animal.Name')">
-                            <i class="fas fa-volume-up me-2"></i>Sesi Çal
-                        </button>
+            @foreach (var animal in Model)
+            {
+                <div class="col-md-3 mb-4">
+                    <div class="card h-100" data-animal-id="@animal.Id">
+                        <img src="@animal.ImagePath" class="card-img-top" alt="@animal.Name" style="height: 200px; object-fit: cover;">
+                        <div class="card-body">
+                            <h5 class="card-title">@animal.Name</h5>
+                            <p class="card-text">@animal.Description</p>
+                            
+                            <button class="btn btn-play w-100 mb-3 play-sound" data-sound="@animal.SoundPath" data-animal-id="@animal.Id">
+                                <i class="fas fa-volume-up me-2"></i>Sesi Çal
+                            </button>
+                            
+                            @if (User.Identity.IsAuthenticated)
+                            {
+                                <div class="progress">
+                                    <div class="progress-bar progress-bar-striped progress-bar-animated" 
+                                         role="progressbar" 
+                                         style="width: @(animal.Progress)%;" 
+                                         aria-valuenow="@animal.Progress" 
+                                         aria-valuemin="0" 
+                                         aria-valuemax="100">
+                                        %@animal.Progress
+                                    </div>
+                                </div>
+                            }
+                        </div>
                     </div>
+                </div>
+            }
+        }
+        else
+        {
+            <div class="col-12">
+                <div class="alert alert-info">
+                    Henüz hayvan kartı eklenmemiş.
                 </div>
             </div>
         }
     </div>
 </div>
 
-<audio id="animalSound"></audio>
-
-<style>
-    .animal-card {
-        transition: transform 0.3s ease;
-        border-radius: 15px;
-        overflow: hidden;
-        box-shadow: 0 4px 8px rgba(0,0,0,0.1);
-        background: linear-gradient(to bottom right, #ffffff, #f8f9fa);
-    }
-
-    .animal-card:hover {
-        transform: translateY(-5px);
-        box-shadow: 0 6px 12px rgba(0,0,0,0.15);
-    }
-
-    .animal-image {
-        height: 200px;
-        object-fit: cover;
-        cursor: pointer;
-        transition: transform 0.3s ease;
-    }
-
-    .animal-image:hover {
-        transform: scale(1.05);
-    }
-
-    .card-title {
-        color: #333;
-        font-weight: bold;
-        margin-top: 1rem;
-        font-size: 1.25rem;
-    }
-
-    .card-text {
-        color: #666;
-        font-size: 0.95rem;
-        line-height: 1.5;
-        margin-bottom: 1.5rem;
-    }
-
-    .play-btn {
-        border-radius: 50px;
-        padding: 8px 20px;
-        transition: all 0.3s ease;
-        background: linear-gradient(45deg, #007bff, #0056b3);
-        border: none;
-    }
-
-    .play-btn:hover {
-        transform: scale(1.05);
-        box-shadow: 0 4px 8px rgba(0,0,0,0.2);
-        background: linear-gradient(45deg, #0056b3, #004085);
-    }
-
-    .play-btn:active {
-        transform: scale(0.95);
-    }
-
-    @@media (max-width: 768px) {
-        .animal-card {
-            margin-bottom: 1rem;
-        }
-
-        .animal-image {
-            height: 180px;
-        }
-    }
-</style>
-
 @section Scripts {
     <script>
-        let currentSound = null;
+        document.querySelectorAll('.play-sound').forEach(button => {
+            button.addEventListener('click', function() {
+                const soundPath = this.getAttribute('data-sound');
+                const animalId = this.getAttribute('data-animal-id');
+                const audio = new Audio(soundPath);
+                
+                // Butona playing sınıfını ekle
+                this.classList.add('playing');
+                
+                audio.play()
+                    .then(() => {
+                        // Ses bittiğinde playing sınıfını kaldır
+                        audio.onended = () => this.classList.remove('playing');
+                        
+                        // Sadece giriş yapmış kullanıcılar için ilerleme güncelle
+                        if (@Json.Serialize(User.Identity.IsAuthenticated)) {
+                            updateProgress(animalId, this);
+                        }
+                    })
+                    .catch(error => {
+                        console.error('Ses çalma hatası:', error);
+                        alert('Ses dosyası çalınamadı. Lütfen tekrar deneyin.');
+                        this.classList.remove('playing');
+                    });
+            });
+        });
 
-        function playAnimalSound(soundPath, animalName) {
-            const audio = document.getElementById('animalSound');
-            
-            // Eğer başka bir ses çalıyorsa durdur
-            if (currentSound && !currentSound.paused) {
-                currentSound.pause();
-                currentSound.currentTime = 0;
-            }
-            
-            // Yeni sesi çal
-            audio.src = soundPath;
-            audio.play()
-                .then(() => {
-                    currentSound = audio;
-                })
-                .catch(error => {
-                    console.error('Ses çalma hatası:', error);
-                    alert(`${animalName} sesi yüklenirken bir hata oluştu.`);
-                });
+        function updateProgress(animalId, button) {
+            fetch(`/Course/UpdateAnimalProgress?animalId=${animalId}`, {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json',
+                }
+            })
+            .then(response => response.json())
+            .then(data => {
+                if (data.success) {
+                    const card = document.querySelector(`[data-animal-id="${animalId}"]`);
+                    const progressBar = card.querySelector('.progress-bar');
+                    progressBar.style.width = `${data.progress}%`;
+                    progressBar.setAttribute('aria-valuenow', data.progress);
+                    progressBar.textContent = `%${data.progress}`;
+                    
+                    if (data.progress >= 100) {
+                        progressBar.style.backgroundColor = '#28a745';
+                        button.disabled = true;
+                        button.innerHTML = '<i class="fas fa-check me-2"></i>Tamamlandı';
+                    }
+                }
+            })
+            .catch(error => {
+                console.error('İlerleme güncelleme hatası:', error);
+                alert('İlerleme güncellenirken bir hata oluştu.');
+            });
         }
     </script>
 } 

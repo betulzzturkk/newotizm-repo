@@ -10,31 +10,43 @@ namespace AutismEducationPlatform.Web.Models
         public int Id { get; set; }
 
         [Required]
-        public int CourseId { get; set; }
-
-        [Required]
-        [StringLength(100)]
+        [StringLength(200)]
         public string Name { get; set; } = string.Empty;
 
-        [StringLength(500)]
-        public string? Description { get; set; }
+        [Required]
+        [StringLength(1000)]
+        public string Description { get; set; } = string.Empty;
 
         [Required]
-        [Range(1, 180)]
-        public int DurationMinutes { get; set; }
-
         [StringLength(50)]
-        public string? Category { get; set; }
+        public string Type { get; set; } = string.Empty;
 
+        [Required]
         [StringLength(50)]
-        public string? Difficulty { get; set; }
+        public string Category { get; set; } = string.Empty;
+
+        [Required]
+        [StringLength(50)]
+        public string Difficulty { get; set; } = string.Empty;
+
+        public bool IsCompleted { get; set; }
 
         public bool IsActive { get; set; } = true;
 
-        [ForeignKey("CourseId")]
-        public Course? Course { get; set; }
+        public int Score { get; set; }
 
-        public DateTime CreatedAt { get; set; } = DateTime.UtcNow;
-        public DateTime? UpdatedAt { get; set; }
+        [Range(1, 180)]
+        public int DurationMinutes { get; set; }
+
+        public DateTime? CompletionDate { get; set; }
+
+        [StringLength(450)]
+        public string? UserId { get; set; }
+
+        public virtual ApplicationUser? User { get; set; }
+
+        public int CourseId { get; set; }
+
+        public virtual Course Course { get; set; } = null!;
     }
 } 

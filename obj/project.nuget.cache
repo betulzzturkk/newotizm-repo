@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "3ILV72Qeh1Y=",
+  "dgSpecHash": "j5QmY8F7R3c=",
   "success": true,
-  "projectFilePath": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\newotizm\\AutismEducationPlatform.Web\\AutismEducationPlatform.Web.csproj",
+  "projectFilePath": "C:\\Users\\betulozturk\\newotizm-repo\\AutismEducationPlatform.Web.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\betulozturk\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\betulozturk\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

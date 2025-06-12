@@ -1,12 +1,16 @@
+@model AutismEducationPlatform.Web.Models.ViewModels.ParentDashboardViewModel
 @{
     ViewData["Title"] = "Veli Paneli";
+    Layout = "_ParentLayout";
 }
+
+<link rel="stylesheet" href="~/css/parent-dashboard.css" />
 
 <div class="dashboard-container">
     <div class="dashboard-header">
         <h1 class="dashboard-title">
             <i class="fas fa-home"></i>
-            Veli Paneli
+            Hoş Geldiniz, @Model.UserProfile.Name!
         </h1>
         <p class="dashboard-subtitle">Çocuğunuzun eğitim sürecini takip edebileceğiniz alan</p>
     </div>
@@ -19,7 +23,7 @@
             </div>
             <div class="card-content">
                 <h2>Çocuk Bilgileri</h2>
-                <p>Çocuğunuzun kişisel bilgilerini görüntüleyin ve güncelleyin</p>
+                <p>@Model.ChildInfo.Name, @Model.ChildInfo.Age yaşında</p>
                 <a asp-controller="Parent" asp-action="Profile" class="card-button button-primary">
                     <span>Bilgileri Düzenle</span>
                     <i class="fas fa-arrow-right"></i>
@@ -34,8 +38,8 @@
             </div>
             <div class="card-content">
                 <h2>Çocuğumun Gelişimi</h2>
-                <p>Eğitim sürecindeki gelişimi takip edin ve raporları inceleyin</p>
-                <a href="#" class="card-button button-success">
+                <p>Eğitim sürecindeki gelişimi takip edin</p>
+                <a asp-controller="Parent" asp-action="Progress" class="card-button button-success">
                     <span>Gelişimi Görüntüle</span>
                     <i class="fas fa-arrow-right"></i>
                 </a>
@@ -49,57 +53,87 @@
             </div>
             <div class="card-content">
                 <h2>Eğitimler</h2>
-                <p>Özel hazırlanmış eğitim içeriklerine ve aktivitelere erişin</p>
-                <a href="#" class="card-button button-info">
+                <p>@Model.Courses.Count aktif eğitim mevcut</p>
+                <a asp-controller="Course" asp-action="Index" class="card-button button-info">
                     <span>Eğitimleri Görüntüle</span>
                     <i class="fas fa-arrow-right"></i>
                 </a>
             </div>
         </div>
 
-        <!-- Duyurular ve Mesajlar -->
+        <!-- Duyurular -->
         <div class="dashboard-card">
             <div class="card-icon bg-gradient-warning">
                 <i class="fas fa-bell"></i>
             </div>
             <div class="card-content">
-                <h2>Duyurular ve Mesajlar</h2>
-                <p>Önemli duyuruları takip edin ve mesajlarınızı yönetin</p>
-                <a href="#" class="card-button button-warning">
+                <h2>Duyurular</h2>
+                <p>@Model.Announcements.Count(a => !a.IsRead) yeni duyuru</p>
+                <a asp-controller="Parent" asp-action="Announcements" class="card-button button-warning">
+                    <span>Duyuruları Görüntüle</span>
+                    <i class="fas fa-arrow-right"></i>
+                </a>
+            </div>
+        </div>
+
+        <!-- Mesajlar -->
+        <div class="dashboard-card">
+            <div class="card-icon bg-gradient-purple">
+                <i class="fas fa-envelope"></i>
+            </div>
+            <div class="card-content">
+                <h2>Mesajlar</h2>
+                <p>@Model.Messages.Count(m => !m.IsRead) okunmamış mesaj</p>
+                <a asp-controller="Parent" asp-action="Messages" class="card-button button-purple">
                     <span>Mesajları Görüntüle</span>
                     <i class="fas fa-arrow-right"></i>
                 </a>
             </div>
         </div>
 
-        <!-- Geri Bildirim -->
-        <div class="dashboard-card">
-            <div class="card-icon bg-gradient-purple">
-                <i class="fas fa-comment-dots"></i>
-            </div>
-            <div class="card-content">
-                <h2>Geri Bildirim</h2>
-                <p>Deneyimlerinizi paylaşın ve önerilerinizi iletin</p>
-                <a href="#" class="card-button button-purple">
-                    <span>Geri Bildirim Gönder</span>
-                    <i class="fas fa-arrow-right"></i>
-                </a>
-            </div>
-        </div>
-
-        <!-- Sık Sorulan Sorular -->
+        <!-- SSS -->
         <div class="dashboard-card">
             <div class="card-icon bg-gradient-orange">
                 <i class="fas fa-question-circle"></i>
             </div>
             <div class="card-content">
                 <h2>Sık Sorulan Sorular</h2>
-                <p>Sıkça sorulan soruları ve cevaplarını inceleyin</p>
-                <a href="#" class="card-button button-orange">
+                <p>Yardım ve destek için SSS bölümünü inceleyin</p>
+                <a asp-controller="Parent" asp-action="FAQ" class="card-button button-orange">
                     <span>SSS'yi Görüntüle</span>
                     <i class="fas fa-arrow-right"></i>
                 </a>
             </div>
         </div>
     </div>
-</div> 
+
+    <!-- İlerleme Bölümü -->
+    <div class="progress-section">
+        <h2 class="progress-title">Eğitim İlerlemesi</h2>
+        <div class="progress-grid">
+            @foreach (var progress in Model.ProgressData)
+            {
+                <div class="progress-card">
+                    <h3>@progress.Category</h3>
+                    <div class="progress-bar-container">
+                        <div class="progress-bar" style="width: @(progress.Value)%; background-color: @progress.Color;"></div>
+                    </div>
+                    <div class="progress-value">@progress.Value%</div>
+                </div>
+            }
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    <script>
+        $(document).ready(function() {
+            // Animasyonlu progress bar için
+            $('.progress-bar').each(function() {
+                $(this).css('width', '0%').animate({
+                    width: $(this).parent().attr('data-value') + '%'
+                }, 1000);
+            });
+        });
+    </script>
+} 

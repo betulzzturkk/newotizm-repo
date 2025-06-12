@@ -4,16 +4,21 @@ using AutismEducationPlatform.Web.Models;
 using AutismEducationPlatform.Web.Models.ViewModels;
 using Microsoft.EntityFrameworkCore;
 using System.Collections.Generic;
+using System;
+using Microsoft.AspNetCore.Identity;
+using System.Security.Claims;
 
 namespace AutismEducationPlatform.Web.Controllers
 {
     public class CourseController : Controller
     {
         private readonly ApplicationDbContext _context;
+        private readonly UserManager<ApplicationUser> _userManager;
 
-        public CourseController(ApplicationDbContext context)
+        public CourseController(ApplicationDbContext context, UserManager<ApplicationUser> userManager)
         {
             _context = context;
+            _userManager = userManager;
         }
 
         public IActionResult Index()
@@ -37,63 +42,89 @@ namespace AutismEducationPlatform.Web.Controllers
         {
             var animals = new List<AnimalViewModel>
             {
-                new AnimalViewModel 
-                { 
+                new AnimalViewModel
+                {
+                    Id = 1,
                     Name = "Kedi",
-                    Description = "Evcil bir hayvandır. Miyav sesi çıkarır.",
+                    Description = "Miyav!",
                     ImagePath = "/images/animals/cat.jpg",
-                    SoundPath = "/sounds/animals/cat.mp3"
+                    SoundPath = "/sounds/animals/kedi.mp3"
                 },
-                new AnimalViewModel 
-                { 
+                new AnimalViewModel
+                {
+                    Id = 2,
                     Name = "Köpek",
-                    Description = "Evcil bir hayvandır. Hav hav sesi çıkarır.",
+                    Description = "Hav hav!",
                     ImagePath = "/images/animals/dog.jpg",
-                    SoundPath = "/sounds/animals/dog.mp3"
+                    SoundPath = "/sounds/animals/kopek.mp3"
                 },
-                new AnimalViewModel 
-                { 
+                new AnimalViewModel
+                {
+                    Id = 3,
                     Name = "İnek",
-                    Description = "Çiftlik hayvanıdır. Möö sesi çıkarır.",
+                    Description = "Möö!",
                     ImagePath = "/images/animals/cow.jpg",
-                    SoundPath = "/sounds/animals/cow.mp3"
+                    SoundPath = "/sounds/animals/inek.mp3"
                 },
-                new AnimalViewModel 
-                { 
+                new AnimalViewModel
+                {
+                    Id = 4,
                     Name = "Kuş",
-                    Description = "Uçabilen bir hayvandır. Cik cik sesi çıkarır.",
+                    Description = "Cik cik!",
                     ImagePath = "/images/animals/bird.jpg",
-                    SoundPath = "/sounds/animals/bird.mp3"
+                    SoundPath = "/sounds/animals/kus.mp3"
                 },
-                new AnimalViewModel 
-                { 
+                new AnimalViewModel
+                {
+                    Id = 5,
                     Name = "At",
-                    Description = "Çiftlik hayvanıdır. Kişneme sesi çıkarır.",
+                    Description = "Nayy!",
                     ImagePath = "/images/animals/horse.jpg",
-                    SoundPath = "/sounds/animals/horse.mp3"
+                    SoundPath = "/sounds/animals/at.mp3"
                 },
-                new AnimalViewModel 
-                { 
-                    Name = "Tavuk",
-                    Description = "Çiftlik hayvanıdır. Gıt gıt sesi çıkarır.",
-                    ImagePath = "/images/animals/chicken.jpg",
-                    SoundPath = "/sounds/animals/chicken.mp3"
+                new AnimalViewModel
+                {
+                    Id = 6,
+                    Name = "Fil",
+                    Description = "Puuuuh!",
+                    ImagePath = "/images/animals/elephant.jpg",
+                    SoundPath = "/sounds/animals/fil.mp3"
                 },
-                new AnimalViewModel 
-                { 
-                    Name = "Koyun",
-                    Description = "Çiftlik hayvanıdır. Mee sesi çıkarır.",
-                    ImagePath = "/images/animals/sheep.jpg",
-                    SoundPath = "/sounds/animals/sheep.mp3"
-                },
-                new AnimalViewModel 
-                { 
+                new AnimalViewModel
+                {
+                    Id = 7,
                     Name = "Aslan",
-                    Description = "Vahşi bir hayvandır. Kükreme sesi çıkarır.",
+                    Description = "Kükreeme!",
                     ImagePath = "/images/animals/lion.jpg",
-                    SoundPath = "/sounds/animals/lion.mp3"
+                    SoundPath = "/sounds/animals/aslan.mp3"
+                },
+                new AnimalViewModel
+                {
+                    Id = 8,
+                    Name = "Tavuk",
+                    Description = "Gıt gıt gıdak!",
+                    ImagePath = "/images/animals/chicken.jpg",
+                    SoundPath = "/sounds/animals/tavuk.mp3"
                 }
             };
+
+            // Kullanıcı giriş yapmışsa, ilerleme bilgilerini getir
+            if (User.Identity.IsAuthenticated)
+            {
+                var userId = User.FindFirstValue(ClaimTypes.NameIdentifier);
+                var progresses = _context.AnimalProgress
+                    .Where(p => p.UserId == userId)
+                    .ToDictionary(p => p.AnimalId, p => p.ProgressValue);
+
+                // Her hayvan için ilerleme bilgisini ekle
+                foreach (var animal in animals)
+                {
+                    if (progresses.ContainsKey(animal.Id))
+                    {
+                        animal.Progress = progresses[animal.Id];
+                    }
+                }
+            }
 
             return View(animals);
         }
@@ -108,20 +139,70 @@ namespace AutismEducationPlatform.Web.Controllers
 
         public IActionResult Details(int id)
         {
-            var viewName = id switch
+            switch (id)
             {
-                1 => "Animals",
-                2 => "Colors",
-                3 => "Shapes",
-                4 => "Numbers",
-                5 => "Tales",
-                6 => "TrafficSigns",
-                7 => "Manners",
-                8 => "EducationalVideos",
-                _ => "Index"
-            };
+                case 1:
+                    return RedirectToAction("Animals");
+                case 2:
+                    return RedirectToAction("Colors");
+                case 3:
+                    return RedirectToAction("Numbers");
+                case 4:
+                    return RedirectToAction("Shapes");
+                case 5:
+                    return RedirectToAction("Tales");
+                case 6:
+                    return RedirectToAction("TrafficSigns");
+                case 7:
+                    return RedirectToAction("Manners");
+                case 8:
+                    return RedirectToAction("EducationalVideos");
+                default:
+                    return RedirectToAction("Index");
+            }
+        }
 
-            return View(viewName);
+        [HttpPost]
+        public async Task<IActionResult> UpdateAnimalProgress(int animalId)
+        {
+            if (!User.Identity.IsAuthenticated)
+            {
+                return Json(new { success = false, message = "Lütfen giriş yapın.", requireLogin = true });
+            }
+
+            try
+            {
+                var userId = User.FindFirstValue(ClaimTypes.NameIdentifier);
+                var progress = await _context.AnimalProgress
+                    .FirstOrDefaultAsync(p => p.AnimalId == animalId && p.UserId == userId);
+
+                if (progress == null)
+                {
+                    progress = new AnimalProgress
+                    {
+                        AnimalId = animalId,
+                        UserId = userId,
+                        ProgressValue = 0,
+                        InteractionCount = 0,
+                        LastInteraction = DateTime.UtcNow
+                    };
+                    _context.AnimalProgress.Add(progress);
+                }
+
+                progress.InteractionCount++;
+                progress.LastInteraction = DateTime.UtcNow;
+                
+                // Her tıklamada %20 artır, maksimum %100
+                progress.ProgressValue = Math.Min(100, progress.ProgressValue + 20);
+
+                await _context.SaveChangesAsync();
+
+                return Json(new { success = true, progress = progress.ProgressValue });
+            }
+            catch (Exception ex)
+            {
+                return Json(new { success = false, message = ex.Message });
+            }
         }
     }
 }

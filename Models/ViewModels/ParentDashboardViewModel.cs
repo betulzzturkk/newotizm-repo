@@ -26,31 +26,6 @@ namespace AutismEducationPlatform.Web.Models.ViewModels
         public string SpecialNeeds { get; set; } = string.Empty;
     }
 
-    public class Announcement
-    {
-        public string Title { get; set; } = string.Empty;
-        public string Content { get; set; } = string.Empty;
-        public DateTime Date { get; set; }
-        public string Type { get; set; } = string.Empty;
-        public bool IsRead { get; set; }
-    }
-
-    public class Message
-    {
-        public string Title { get; set; } = string.Empty;
-        public string Content { get; set; } = string.Empty;
-        public DateTime Date { get; set; }
-        public string SenderName { get; set; } = string.Empty;
-        public bool IsRead { get; set; }
-    }
-
-    public class FAQ
-    {
-        public string Question { get; set; } = string.Empty;
-        public string Answer { get; set; } = string.Empty;
-        public string Category { get; set; } = string.Empty;
-    }
-
     public class ContactInfo
     {
         public string Email { get; set; } = string.Empty;

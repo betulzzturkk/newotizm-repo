@@ -14,9 +14,15 @@ namespace AutismEducationPlatform.Web.Data
 
         public DbSet<Course> Courses { get; set; }
         public DbSet<Activity> Activities { get; set; }
-        public DbSet<Progress> Progresses { get; set; }
+        public DbSet<ActivityLog> ActivityLogs { get; set; }
+        public DbSet<Progress> Progress { get; set; }
         public DbSet<Child> Children { get; set; }
         public DbSet<News> News { get; set; }
+        public DbSet<Information> Information { get; set; }
+        public DbSet<AnimalProgress> AnimalProgress { get; set; }
+        public DbSet<Message> Messages { get; set; }
+        public DbSet<FAQ> FAQs { get; set; }
+        public DbSet<Announcement> Announcements { get; set; }
 
         protected override void OnModelCreating(ModelBuilder builder)
         {
@@ -39,7 +45,8 @@ namespace AutismEducationPlatform.Web.Data
                 entity.Property(e => e.Name).IsRequired().HasMaxLength(100);
                 entity.Property(e => e.Description).HasMaxLength(500);
                 entity.Property(e => e.Category).HasMaxLength(50);
-                entity.Property(e => e.Difficulty).HasMaxLength(50);
+                entity.Property(e => e.DifficultyLevel).IsRequired();
+                entity.Property(e => e.ImageUrl).HasMaxLength(200);
             });
 
             // Configure Activities table
@@ -76,6 +83,37 @@ namespace AutismEducationPlatform.Web.Data
                 entity.Property(e => e.Content).IsRequired();
                 entity.Property(e => e.Summary).IsRequired().HasMaxLength(500);
             });
+
+            builder.Entity<ActivityLog>(entity =>
+            {
+                entity.HasOne(e => e.Activity)
+                    .WithMany()
+                    .HasForeignKey(e => e.ActivityId)
+                    .OnDelete(DeleteBehavior.NoAction);
+
+                entity.HasOne(e => e.Child)
+                    .WithMany()
+                    .HasForeignKey(e => e.ChildId)
+                    .OnDelete(DeleteBehavior.NoAction);
+            });
+
+            builder.Entity<AnimalProgress>(entity =>
+            {
+                entity.HasOne(e => e.User)
+                    .WithMany()
+                    .HasForeignKey(e => e.UserId)
+                    .OnDelete(DeleteBehavior.Cascade);
+
+                entity.HasIndex(e => new { e.UserId, e.AnimalId })
+                    .IsUnique();
+            });
+
+            // Announcement için ilişki konfigürasyonu
+            builder.Entity<Announcement>()
+                .HasOne(a => a.User)
+                .WithMany()
+                .HasForeignKey(a => a.UserId)
+                .OnDelete(DeleteBehavior.SetNull);
         }
     }
 } 
